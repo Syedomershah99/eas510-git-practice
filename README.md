@@ -4,7 +4,7 @@ This repository documents my journey in learning AI and technology. I am explori
 
 I'm currently a graduate student in ES (Artificial Intelligence) at University at Buffalo
 
-I learn by shipping—and then tightening the feedback loop.
+I learn by shipping and then tightening the feedback loop.
 
 I started by freelancing full-stack sites, where delivery dates and Lighthouse scores taught me to measure what matters. That focus on impact carried into backend/ML work: authentication services that serve 10,000+ monthly requests, latency shaved ~30% through query optimization, and semantic search accelerated 2× with vector DBs.
 
